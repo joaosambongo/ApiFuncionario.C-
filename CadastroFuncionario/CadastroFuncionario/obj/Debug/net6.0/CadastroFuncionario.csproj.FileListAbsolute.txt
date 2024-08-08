@@ -1,0 +1,136 @@
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\appsettings.json
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.exe
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.deps.json
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.runtimeconfig.json
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.pdb
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Humanizer.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.csproj.AssemblyReference.cache
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.AssemblyInfoInputs.cache
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.AssemblyInfo.cs
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets\msbuild.CadastroFuncionario.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets\msbuild.build.CadastroFuncionario.props
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CadastroFuncionario.props
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CadastroFuncionario.props
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\scopedcss\bundle\CadastroFuncionario.styles.css
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\Cadastro.A01BBC77.Up2Date
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\refint\CadastroFuncionario.dll
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.pdb
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.genruntimeconfig.cache
+C:\Users\JOHNNY LEMOS II\Music\WebApi\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\ref\CadastroFuncionario.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\appsettings.json
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.exe
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.deps.json
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.runtimeconfig.json
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\CadastroFuncionario.pdb
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Humanizer.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.csproj.AssemblyReference.cache
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.AssemblyInfoInputs.cache
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.AssemblyInfo.cs
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets\msbuild.CadastroFuncionario.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets\msbuild.build.CadastroFuncionario.props
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CadastroFuncionario.props
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CadastroFuncionario.props
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\scopedcss\bundle\CadastroFuncionario.styles.css
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\Cadastro.A01BBC77.Up2Date
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\refint\CadastroFuncionario.dll
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.pdb
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\CadastroFuncionario.genruntimeconfig.cache
+C:\Users\JOHNNY LEMOS II\Music\Projetos ASP NET\Sistema Em C#\CadastroFuncionario\CadastroFuncionario\obj\Debug\net6.0\ref\CadastroFuncionario.dll
